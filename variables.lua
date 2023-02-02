@@ -12,7 +12,7 @@ print(Bank_balance)
 local p1_name = "Leeroy Jenkins"
 local p2_name = "Felipe Dórea"
 print(#p2_name)
-print(p1_name.." and "..p2_name)
+print(p1_name .. " and ".. p2_name)
 -- .. is used to concatenate two strings
 
 print(type(Score))
